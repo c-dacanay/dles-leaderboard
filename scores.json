@@ -1,0 +1,38 @@
+{
+  "wordle": {
+    "2025-10-05": {
+      "christina": 5
+    }
+  },
+  "connections": {
+    "2025-10-05": {
+      "christina": {
+        "mistakes": 2,
+        "points": 6,
+        "summary": "2 mistakes"
+      }
+    }
+  },
+  "strands": {
+    "2025-10-05": {
+      "christina": {
+        "score": 13,
+        "summary": "5 correct, 0 hints, spangram early \ud83d\udfe1"
+      }
+    },
+    "2025-10-06": {
+      "christina": {
+        "score": 13,
+        "summary": "5 correct, 0 hints, spangram early \ud83d\udfe1"
+      }
+    }
+  },
+  "globle": {
+    "2025-10-05": {
+      "christina": {
+        "guesses": 2,
+        "summary": "2 guesses \u2014 AMAZING \ud83c\udf0d"
+      }
+    }
+  }
+}
